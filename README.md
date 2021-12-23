@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Predicting price from cardekho dataset
+Predicting price of car from Car Prices dataset using RandomForestRegressor
